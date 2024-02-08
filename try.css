@@ -1,0 +1,37 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    /* height: 100%;
+    width: 100%; */
+}
+
+
+#page5{
+    /* height: 100vh; */
+    max-width: 100%;
+    margin: auto;
+    background-color: wheat;
+    display: flex;
+  }
+  .left {
+    height: 100vh;
+    min-width: 500px; /* Adjust the width as needed */
+    max-width: 500px;
+    background-color: lightblue;
+    position: sticky;
+    top: 0;
+     /* Take full height of the viewport */
+  }
+  
+  
+  
+  .conatainer{
+    padding: 5rem;
+  }
+  
