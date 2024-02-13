@@ -510,7 +510,7 @@ nav > h2 span {
   background-image: url(Assets/FantaWebsite.png);
 }
 
-#page5 {
+/* #page5 {
   height: 100vh;
   max-width: 100%;
   position: relative;
@@ -531,7 +531,7 @@ nav > h2 span {
   height: 150px;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+} */
 
 
 @media only screen and (max-width: 767px) {
